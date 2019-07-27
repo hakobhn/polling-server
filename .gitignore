@@ -31,3 +31,5 @@ nbdist/
 src/main/resources/application-prod.properties
 target
 target/*
+out
+out/*
